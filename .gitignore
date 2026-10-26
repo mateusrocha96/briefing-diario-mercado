@@ -1,0 +1,10 @@
+﻿# exports do briefing e planilhas do time
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# arquivos locais
+.env
+.DS_Store
+Thumbs.db
