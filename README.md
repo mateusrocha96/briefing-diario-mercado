@@ -118,5 +118,3 @@ Detalhes em [`power-automate/fluxo-teams.md`](power-automate/fluxo-teams.md).
 3. Crie uma tarefa agendada no Claude com essa instrução, no horário que preferir.
 4. Rode uma vez manualmente e confira o documento.
 5. Se quiser distribuir pelo Teams, monte o fluxo descrito em [`power-automate/fluxo-teams.md`](power-automate/fluxo-teams.md).
-
-> Não publique os ids nem os links do seu documento em repositórios públicos.
