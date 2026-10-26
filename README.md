@@ -22,7 +22,7 @@ flowchart LR
     G --> I[Mensagem individual<br/>no Teams para cada pessoa]
 ```
 
-## Estrutura do repositório
+## Estrutura
 
 | Arquivo | Conteúdo |
 |---|---|
